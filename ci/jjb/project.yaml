@@ -47,5 +47,4 @@
       - intel
     build-node: master
     jobs:
-            #- akraino-validation-lab-daily
       - bluval-run-daily-tests
